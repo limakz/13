@@ -1,0 +1,9 @@
+.squareList{
+    list-style-type: square;
+}
+.menuList li{
+    display: inline-block;
+    float: left;
+    margin: 0 20px;
+    list-style-type: none;
+}
